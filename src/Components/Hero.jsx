@@ -9,7 +9,7 @@ const Hero = () => {
 
 
             <button type ="button" 
-            onClick={() => window.open('https://github.com/INDOMINUS7/Article_Summarizer')}
+            onClick={() => window.open('https://github.com/INDOMINUS7/Article_Summarizer_Website')}
             className='black_bt opacity-90 mx-7'>
 
                 Github
